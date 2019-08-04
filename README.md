@@ -1,2 +1,0 @@
-# MyPetStore
-Created with CodeSandbox
